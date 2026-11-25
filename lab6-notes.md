@@ -1,7 +1,7 @@
 # Lab 6 Notes – PHP, PDO, and SQLite Integration
 
 **Student:** Samuel Nsimba
-**Codespaces link:** `https://congenial-yodel-775qp9xrg6wxf76p.github.dev/`
+**Codespaces link:** `https://github.com/u1675836/lab6-notes.md`
 
 ---
 
@@ -34,7 +34,7 @@ Server command (from the project root):
 php -S 0.0.0.0:8000
 ```
 
-1. **URL opened:** `https://congenial-yodel-775qp9xrg6wxf76p-8000.app.github.dev/`. The root URL redirected (302) to `/php/request-form.php`.
+1. **URL opened:** `https://congenial-yodel-775qp9xrg6wxf76p-8000.app.github.dev/php/request-form.php/`. The root URL redirected (302) to `/php/request-form.php`.
 2. **Confirmation:** I submitted a valid request using test data:
    - Name: Test Student
    - Email: test.student@example.edu
